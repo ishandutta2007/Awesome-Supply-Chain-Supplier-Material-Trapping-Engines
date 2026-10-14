@@ -76,7 +76,7 @@ The following repositories represent self-hostable tools, machine learning frame
 
 Repositories are sorted in **descending order by GitHub stargazers count**.
 
-| Repository & Stars Badge | Description & Architectural Highlights | Tech Stack |
+| Repository & Stars_Badge | Description & Architectural Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)**<br>[![Stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers) | Open-source warehouse and logistics operating system derived from Ford Asia Pacific supply chain processes; optimizes inventory allocation, material staging, and deficit prevention. | Python, Django, Vue.js, Quasar, SQLite/PostgreSQL |
 | **[fleetbase](https://github.com/fleetbase/fleetbase)**<br>[![Stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers) | Modular logistics and supply chain operating system (LSOS) for orchestrating vendor fulfillment, multi-stop routing, live tracking, and transport visibility. | PHP, Laravel, Ember.js, Docker, MySQL |
@@ -154,7 +154,7 @@ Contributions are welcome and actively encouraged! To contribute:
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-engine`.
 3. 📝 **Add or update entries** following the established tabular format:
    - For SaaS: include Vendor Name, Focus Capabilities, Company Size (Valuation/Revenue), Specific Starting Pricing, and Free Tier/Trial limits.
-   - For Open-Source: include Repository Name, Stars badge (`style=social&color=white`), concise description, and tech stack.
+   - For Open-Source: include Repository Name, Stars_Badge (`style=social&color=white`), concise description, and tech stack.
 4. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 ---
